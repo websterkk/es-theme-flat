@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>f20000</color>
+			<path>./n64_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
