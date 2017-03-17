@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>e63028</color>
+			<path>./retropie.png</path>
 		</image>
 
 		<image name="logo">
