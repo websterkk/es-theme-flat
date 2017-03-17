@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>00569f</color>
+			<path>./tg16_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
