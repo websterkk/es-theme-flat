@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>e38555</color>
+			<path>./fba_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
