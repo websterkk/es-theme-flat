@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<color>ba1001</color>
+			<path>./a7800_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
